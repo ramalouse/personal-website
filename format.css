@@ -1,0 +1,36 @@
+/* CSS code for Simpsons grades case study example */
+ul {
+  padding: 0em;
+ } 
+
+#navigation li {
+  display: inline;
+  padding: 0.5em;
+  background-color: #ddd;
+  border: 3px outset gray;
+  margin: 1em 1em 2em 1em;
+}
+
+h1, #navigation, #flash {
+  text-align: center;
+}
+
+#flash {
+  background-color: #ffffcc;
+  border: 1px dotted #ccccaa;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.indent{
+  margin-left: 20px;
+  width: 400px;
+  word-wrap: break-word;
+  background-color: aliceblue;
+}
+
+/*
+h1, h2 {
+  margin: 0.5em;
+}
+*/
